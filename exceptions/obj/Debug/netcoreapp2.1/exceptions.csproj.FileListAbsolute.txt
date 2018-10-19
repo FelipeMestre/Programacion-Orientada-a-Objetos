@@ -1,0 +1,11 @@
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.csprojAssemblyReference.cache
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.AssemblyInfoInputs.cache
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.AssemblyInfo.cs
+C:\Users\estudiante.fit\Documents\C\exceptions\bin\Debug\netcoreapp2.1\exceptions.deps.json
+C:\Users\estudiante.fit\Documents\C\exceptions\bin\Debug\netcoreapp2.1\exceptions.runtimeconfig.json
+C:\Users\estudiante.fit\Documents\C\exceptions\bin\Debug\netcoreapp2.1\exceptions.runtimeconfig.dev.json
+C:\Users\estudiante.fit\Documents\C\exceptions\bin\Debug\netcoreapp2.1\exceptions.dll
+C:\Users\estudiante.fit\Documents\C\exceptions\bin\Debug\netcoreapp2.1\exceptions.pdb
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.dll
+C:\Users\estudiante.fit\Documents\C\exceptions\obj\Debug\netcoreapp2.1\exceptions.pdb

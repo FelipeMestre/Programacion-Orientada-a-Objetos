@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/src/Program/Program.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "docfx",
+            "command": "docfx",
+            "type": "process",
+            "args": [
+                "${workspaceFolder}/docfx_project/docfx.json"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "test",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "test",
+                "${workspaceFolder}/tests/Library.Tests.csproj",
+                "/p:CollectCoverage=true",
+                "/p:CoverletOutputFormat=lcov"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

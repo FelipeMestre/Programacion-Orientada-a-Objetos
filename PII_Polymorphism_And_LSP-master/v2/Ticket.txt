@@ -1,0 +1,5 @@
+Fecha: 9/2/2018 23:25:06
+1 de 'Product 1' a $100
+2 de 'Product 2' a $200
+3 de 'Product 3' a $300
+Total: $1400

@@ -1,0 +1,11 @@
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.csprojAssemblyReference.cache
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.csproj.CoreCompileInputs.cache
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.AssemblyInfoInputs.cache
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.AssemblyInfo.cs
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\bin\Debug\netcoreapp2.1\Expert_SRP.deps.json
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\bin\Debug\netcoreapp2.1\Expert_SRP.runtimeconfig.json
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\bin\Debug\netcoreapp2.1\Expert_SRP.runtimeconfig.dev.json
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\bin\Debug\netcoreapp2.1\Expert_SRP.dll
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\bin\Debug\netcoreapp2.1\Expert_SRP.pdb
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.dll
+C:\Users\estudiante.fit\Documents\C\PII_Expert_Ejercicio ENZO BUENO Y FELIPE MESTRE\obj\Debug\netcoreapp2.1\Expert_SRP.pdb

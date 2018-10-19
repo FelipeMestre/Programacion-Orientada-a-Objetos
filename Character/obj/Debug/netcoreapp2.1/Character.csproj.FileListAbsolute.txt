@@ -1,0 +1,11 @@
+C:\Users\estudiante.fit\Documents\C\Character\bin\Debug\netcoreapp2.1\Character.deps.json
+C:\Users\estudiante.fit\Documents\C\Character\bin\Debug\netcoreapp2.1\Character.runtimeconfig.json
+C:\Users\estudiante.fit\Documents\C\Character\bin\Debug\netcoreapp2.1\Character.runtimeconfig.dev.json
+C:\Users\estudiante.fit\Documents\C\Character\bin\Debug\netcoreapp2.1\Character.dll
+C:\Users\estudiante.fit\Documents\C\Character\bin\Debug\netcoreapp2.1\Character.pdb
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.csprojAssemblyReference.cache
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.csproj.CoreCompileInputs.cache
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.AssemblyInfoInputs.cache
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.AssemblyInfo.cs
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.dll
+C:\Users\estudiante.fit\Documents\C\Character\obj\Debug\netcoreapp2.1\Character.pdb

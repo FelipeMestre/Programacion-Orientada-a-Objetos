@@ -1,0 +1,63 @@
+SF:C:\Users\Fernando\OneDrive\Documents\Source\Repos\PII_WordsPhrases_v1\src\Library\Phrase.cs
+FN:31,System.Void WordsPhrases.Phrase::AddWord(WordsPhrases.Word)
+FNDA:3,System.Void WordsPhrases.Phrase::AddWord(WordsPhrases.Word)
+DA:32,3
+DA:33,3
+DA:34,3
+FN:40,System.Void WordsPhrases.Phrase::RemoveWord(WordsPhrases.Word)
+FNDA:1,System.Void WordsPhrases.Phrase::RemoveWord(WordsPhrases.Word)
+DA:41,1
+DA:42,1
+DA:43,1
+FN:49,System.String WordsPhrases.Phrase::GetPhrase()
+FNDA:1,System.String WordsPhrases.Phrase::GetPhrase()
+DA:50,1
+DA:51,1
+DA:53,7
+DA:54,2
+DA:55,2
+DA:56,2
+DA:57,2
+DA:59,1
+DA:62,1
+DA:64,1
+DA:65,1
+BRDA:53,67,1,2
+BRDA:53,67,0,1
+FN:21,System.Void WordsPhrases.Phrase::.ctor()
+FNDA:2,System.Void WordsPhrases.Phrase::.ctor()
+DA:22,2
+DA:23,2
+DA:24,2
+DA:25,2
+LF:21
+LH:21
+BRF:2
+BRH:2
+FNF:4
+FNH:4
+end_of_record
+SF:C:\Users\Fernando\OneDrive\Documents\Source\Repos\PII_WordsPhrases_v1\src\Library\Word.cs
+FN:30,System.String WordsPhrases.Word::get_Text()
+FNDA:4,System.String WordsPhrases.Word::get_Text()
+DA:31,4
+DA:32,4
+DA:33,4
+FN:35,System.Void WordsPhrases.Word::set_Text(System.String)
+FNDA:6,System.Void WordsPhrases.Word::set_Text(System.String)
+DA:36,6
+DA:37,6
+DA:38,6
+FN:18,System.Void WordsPhrases.Word::.ctor(System.String)
+FNDA:5,System.Void WordsPhrases.Word::.ctor(System.String)
+DA:19,5
+DA:20,5
+DA:21,5
+DA:22,5
+LF:10
+LH:10
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
