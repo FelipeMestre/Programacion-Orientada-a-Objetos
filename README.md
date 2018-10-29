@@ -12,6 +12,8 @@ Repositorio de código de FelipeMestre
 **SRP:** El patrón de responsabilidad unica enuncia que una clase debería tener una sola razón para cambiar. En este caso el estado de            la clase BaseDeDatos solo debría cambiar si se le agrega un dato y la clase AnalizarDatos solo tiene una responsabilidad que es          la de analizar los datos de la base de datos. La clase DataObject tiene como proposito unico conocer una descripción. Por ende           si se cumple.
 
 ***Ejerciocios 2y3***
+
+{
 public interface ICondition
         {
                 string MensajeUno;
@@ -81,4 +83,5 @@ class AnlizadorDatos
     { /*Mensaje indicado*/ }
     public void MensajeDos(string MensajeDos)
     { /*Mensaje indicado*/ }
+}
 }
