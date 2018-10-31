@@ -77,9 +77,14 @@ class AnlizadorDatos
             }
         }
     }
-    public bool Cumplecondicion(DataBaseObject DBobj)
+    public class Condicion
     {
-        return condicion.validar(DBobj);
+         public string mensaje1
+         public string mensaje2
+         public bool Cumplecondicion(DataBaseObject DBobj)
+         {
+         return condicion.validar(DBobj);
+         }
     }
     public void MensajeUno(string MensajeUno)
     { /*Mensaje indicado*/ }
