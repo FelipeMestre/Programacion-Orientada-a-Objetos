@@ -67,7 +67,7 @@ class AnlizadorDatos
     {
         foreach (DataBaseObject DBObj in baseDatos.ListarDatos())
         {
-            if (CumpleCondicion(DBObj))
+            if (condicion.CumpleCondicion(DBObj))
             {
                 MensajeUno(condicion.MensajeUno);
             }
@@ -77,7 +77,7 @@ class AnlizadorDatos
             }
         }
     }
-    public class Condicion
+    public class Condicion : Icondition
     {
          public string mensaje1
          public string mensaje2
